@@ -1,1 +1,1 @@
-**this** project is about understanding **git**
+**this** project is about understanding **git** (updated)
